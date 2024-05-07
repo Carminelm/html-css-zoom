@@ -7,6 +7,16 @@
 
 body {
     font-family: "Lato", sans-serif;
+}
 
+
+.boxheader{
+
+  background-color: black;
+    display:flex ;
+    max-width: 100%;
+    height: 100px;
 
 }
+  
+
